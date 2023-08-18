@@ -1,1 +1,1 @@
-r <- iris
+r <- iris[iris$Species == "setosa"]
